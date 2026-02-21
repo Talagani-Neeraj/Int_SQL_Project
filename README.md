@@ -9,7 +9,7 @@
 
 ### 1. First Analysis Approach ( fill with details)
 
-Query - 1
+All the contents for every section are there inside scripts section
 
 **Visualization:** 
 
